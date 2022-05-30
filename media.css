@@ -1,0 +1,927 @@
+@media screen and (max-width: 1218px) {
+    .container {
+        width: 960px;
+    }
+
+    .header-center {
+        margin-bottom: 0;
+    }
+
+    .header-left {
+        width: 575px;
+    }
+
+    .title {
+        font-size: 55px;
+        line-height: 75px;
+    }
+
+    .header-title {
+        width: 575px;
+        margin-bottom: 40px;
+    }
+
+    .header-text-gradient {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .header-text {
+        font-size: 20px;
+        line-height: 31px;
+        margin-bottom: 40px;
+    }
+
+    .header-button {
+        width: 200px;
+        height: 55px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .header-right {
+        width: 470px;
+        height: 470px;
+        margin-left: -105px;
+        z-index: -1;
+    }
+
+    .header-right-bg {
+        width: 470px;
+        height: 470px;
+    }
+
+    .mainpic {
+        margin-top: 0;
+        display: flex;
+        width: 470px;
+        height: 470px;
+        justify-content: center;
+    }
+
+    .mainpic-one {
+        display: none;
+    }
+
+    .mainpic-two {
+        position: absolute;
+        width: 280px;
+        height: 500px;
+    }
+
+    .cards {
+        height: 500px;
+        margin-bottom: 100px;
+    }
+
+    .cards-flex {
+        margin-top: 50px;
+    }
+
+
+    .cards-flex img {
+        height: 400px;
+    }
+
+    .title-block {
+        width: 600px;
+        height: 150px;
+        margin-bottom: 30px;
+    }
+
+    .overview {
+        margin-bottom: 70px;
+    }
+
+    .subblock {
+        width: 265px;
+    }
+
+    .subblock:first-of-type {
+        margin-left: 20px;
+    }
+
+    .background-dark-skew {
+        height: 1050px;
+    }
+
+    .title-block-invite {
+        width: 600px;
+        height: 150px;
+    }
+
+    .subtitle {
+        font-size: 20px;
+        line-height: 30px;
+        color: transparent;
+        margin-top: -35px;
+        margin-left: 280px;
+    }
+
+    .invite {
+        width: 809px;
+        margin-bottom: 200px;
+    }
+
+    .invite-block {
+        width: 809px;
+        flex-wrap: wrap;
+    }
+
+    .invitepic {
+        width: 350px;
+        height: 500px;
+        order: 1;
+    }
+
+    .invite-amount {
+        width: 809px;
+        order: 0;
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+    }
+
+    .invite-amount div:first-of-type {
+        margin-bottom: 30px;
+    }
+
+    .invite-text {
+        width: 393px;
+        order: 1;
+    }
+
+
+    .roadmap__title {
+        width: 600px;
+        height: 150px;
+    }
+
+    .roadmap-basic > div > div {
+        width: 445px;
+    }
+
+    .roadmap-basic-left div:last-of-type {
+        margin-top: 384px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(2) {
+        margin: 410px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(3) {
+        margin: 740px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(4) {
+        margin: 1070px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:last-of-type {
+        position: absolute;
+        margin: 1490px 0 0 -18px;
+    }
+
+    .line {
+        height: 1650px;
+    }
+
+    .roadmap-basic-right {
+        margin-left: 36px;
+    }
+
+    .roadmap-basic-right div:first-of-type {
+        margin: 330px 0 412px 0;
+    }
+
+    .team-block {
+        margin-bottom: 112px;
+    }
+
+    .title-team {
+        margin: 40px 0 0 0;
+        text-align: center;
+        width: 600px;
+        height: 150px;
+    }
+
+    .team-list {
+        width: 480px;
+    }
+
+    .player {
+        margin-bottom: 52px;
+    }
+
+    .avatar {
+        width: 200px;
+        height: 200px;
+    }
+
+    .player > p:first-of-type {
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .block-title-faq {
+        width: 600px;
+        height: 150px;
+    }
+
+    .faq > div > img {
+        width: 286px;
+        height: 520px;
+        margin-top: -180px;
+    }
+
+    .backlight {
+        width: 225px;
+        height: 225px;
+        margin-top: -264px;
+        margin-left: 31px;
+    }
+
+    .questions {
+        width: 675px;
+        margin-left: 20px;
+    }
+
+    .title-question {
+        font-size: 20px;
+        line-height: 31px;
+    }
+
+    .block-title-litepaper {
+        width: 600px;
+        height: 150px;
+        margin-bottom: 30px;
+    }
+
+    .introduction {
+        width: 960px;
+        height: 497px;
+        margin-bottom: 50px;
+    }
+
+    .introduction > div > img {
+        width: 339px;
+        height: 437px;
+        margin: 30px;
+    }
+
+    .idea {
+        width: 960px;
+        height: 380px;
+    }
+
+    .idea > div > img {
+        width: 255px;
+        height: 290px;
+        margin: 30px 30px 60px 0;
+    }
+
+    .introduction-text {
+        width: 507px;
+        display: block;
+        margin: 30px 30px 30px 20px;
+    }
+
+    .introduction-text > h3 {
+        margin-bottom: 20px;
+    }
+
+    .introduction-text > p {
+        margin-bottom: 155px;
+    }
+
+    .idea-text {
+        width: 614px;
+        margin: 30px;
+        justify-content: space-between;
+    }
+
+    .idea-text > h3 {
+        margin-bottom: 20px;
+    }
+
+    .idea-text > p {
+        margin-bottom: 60px;
+    }
+
+    .introduction-text > button {
+        display: flex;
+        margin-left: auto;
+        text-align: right;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        width: 728px;
+    }
+
+    .navigation a {
+        margin-right: 30px;
+    }
+
+    .header-left {
+        width: 354px;
+    }
+
+    .title {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .header-title {
+        width: 354px;
+        margin-bottom: 30px;
+    }
+
+    .header-text-gradient {
+        margin-bottom: 20px;
+    }
+
+    .header-text {
+        margin-bottom: 30px;
+    }
+
+    .header-right {
+        width: 354px;
+        height: 354px;
+    }
+
+    .header-right-bg {
+        width: 354px;
+        height: 354px;
+        margin-top: 47px;
+    }
+
+    .mainpic {
+        width: 280px;
+        height: 500px;
+        margin-left: 47px;
+    }
+
+    .cards {
+        height: 400px;
+    }
+
+    .cards-flex img {
+        height: 300px;
+    }
+
+    .title-block {
+        width: 380px;
+        margin-bottom: 30px;
+    }
+
+    .overview {
+        margin-bottom: 100px;
+    }
+
+    .subblock {
+        width: 185px;
+    }
+
+    .subblock > h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .background-dark-skew {
+        height: 1350px;
+        transform: skewY(10deg);
+    }
+
+    .title-block-invite {
+        width: 380px;
+    }
+
+    .invite {
+        width: 728px;
+        margin-bottom: 200px;
+    }
+
+    .subtitle {
+        margin-top: -45px;
+        margin-left: 200px;
+    }
+
+    .invite-block {
+        width: 728px;
+    }
+
+    .invitepic {
+        width: 354px;
+    }
+
+    .invite-amount {
+        width: 728px;
+    }
+
+    .invite-text {
+        width: 324px;
+        order: 1;
+    }
+
+    .roadmap__title {
+        width: 380px;
+        margin-top: 40px;
+    }
+
+    .invite-text p:last-of-type {
+        margin-bottom: 30px;
+    }
+
+    .roadmap-basic > div > div {
+        width: 335px;
+    }
+
+    .roadmap-basic > div > div > h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .roadmap-basic-left div:first-of-type {
+        margin: 50px 0 351px 0;
+    }
+
+    .roadmap-basic-left div:last-of-type {
+        margin-top: 435px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(2) {
+        margin: 510px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(3) {
+        margin: 770px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(4) {
+        margin: 1270px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:last-of-type {
+        margin: 1807px 0 0 -18px;
+    }
+
+    .line {
+        height: 1987px;
+    }
+
+    .roadmap-basic-right div:first-of-type {
+        margin: 350px 0 491px 0;
+    }
+
+    .roadmap__background {
+        transform: skewY(10deg);
+        height: 1250px;
+    }
+
+    .roadmap__background-another {
+        transform: skewY(-10deg);
+        height: 1250px;
+        margin-top: 1000px;
+    }
+
+    .title-block-team {
+        width: 380px;
+        height: 150px;
+        padding-top: 75px;
+    }
+
+    .team-block {
+        margin-bottom: 110px;
+    }
+
+    .block-title-faq {
+        width: 380px;
+    }
+
+    .faq-block {
+        margin-bottom: 100px;
+    }
+
+    .faq__left {
+        display: none;
+    }
+
+    .questions {
+        width: 663px;
+        margin-left: 65px;
+    }
+
+    .block-title-litepaper {
+        width: 380px;
+    }
+
+    .litepaper__img-media {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .litepaper__img-media > img {
+        width: 466px;
+        height: 600px;
+    }
+
+    .introduction {
+        width: 728px;
+        height: 385px;
+        margin-bottom: 50px;
+    }
+
+    .introduction__img {
+        display: none;
+    }
+
+    .idea {
+        width: 728px;
+        height: 357px;
+    }
+
+    .idea__img {
+        display: none;
+    }
+
+    .introduction-text {
+        width: 100%;
+        display: block;
+        margin: 40px;
+    }
+
+    .introduction-text > h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .introduction-text > p {
+        margin-bottom: 55px;
+    }
+
+    .idea-text {
+        width: 100%;
+        margin: 40px;
+    }
+
+    .idea-text > h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .idea-text > p {
+        margin-bottom: 54px;
+    }
+
+    .introduction-text > button {
+        text-align: left;
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .idea > button {
+        text-align: left;
+        margin-left: 10px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 440px;
+    }
+
+    .background-dark {
+        margin-top: 80px;
+    }
+
+    .header-top {
+        display: flex;
+        justify-content: space-between;
+        margin: 0px auto 40px auto;
+        height: 80px;
+        align-items: center;
+    }
+
+    .navigation a {
+        display: none;
+    }
+
+    .btn {
+        background: url("image/menu.png") no-repeat;
+        width: 30px;
+        height: 21px;
+        border: none;
+    }
+
+    .submenu {
+        width: 100%;
+        font-size: 17px;
+        line-height: 28px;
+        margin: 20px 0;
+        display: none;
+    }
+
+    .submenu > ul > li {
+        margin-bottom: 10px;
+        list-style-type: none;
+    }
+
+    .submenu > ul > li > a {
+        text-decoration: none;
+        color:  #F4F4F4;
+    }
+
+    .navigation-media {
+        display: block;
+        margin-right: auto;
+    }
+
+    .header-center {
+        margin-bottom: 50px;
+        height: 100%;
+    }
+
+    .header-left {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .title {
+        line-height: 55px;
+    }
+
+    .header-title {
+        width: 100%;
+    }
+
+    .header-text {
+        line-height: 30px;
+        width: 387px;
+        margin-bottom: 30px;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .cards {
+        height: 300px;
+        margin-bottom: 0px;
+    }
+
+    .cards-flex img {
+        height: 200px;
+    }
+
+    .subblock {
+        width: 420px;
+        margin-bottom: 30px;
+        margin-right: 0;
+    }
+    .subblock > ul > li {
+        margin-left: 20px
+    }
+
+    .background-dark-skew {
+        height: 1500px;
+    }
+
+    .invite {
+        width: 440px;
+        margin-bottom: 100px;
+    }
+
+    .title-block-invite {
+        margin-bottom: 75px;
+    }
+
+    .subtitle {
+        margin-top: -45px;
+        margin-left: 0px;
+    }
+
+    .invite-block {
+        width: 440px;
+    }
+
+    .invitepic {
+        width: 280px;
+        height: 400px;
+        margin: 0 auto 20px auto;
+    }
+
+    .invite-amount {
+        width: 440px;
+        margin-bottom: 0;
+    }
+
+    .invite-text {
+        width: 100%;
+    }
+
+    .invite-text > div {
+        text-align: center;
+    }
+
+    .roadmap__title {
+        margin-bottom: 20px;
+    }
+
+    .roadmap-basic {
+        display: none;
+    }
+
+    .roadmap-basic-media {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .roadmap-basic-center {
+        margin-top: 33px;
+    }
+
+    .roadmap-basic-center-img {
+        margin-top: 33px;
+    }
+
+    .line {
+        height: 1750px;
+    }
+
+    .roadmap-basic-right {
+        font-size: 17px;
+        line-height: 28px;
+        margin-left: 86px;
+    }
+
+    .roadmap-basic-right > div {
+        width: 330px;
+    }
+
+    .roadmap-basic-right > div > h3 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+        font-family: Fredoka One;
+        font-style: normal;
+        font-weight: normal;
+    }
+
+    .roadmap-basic-right > div {
+        margin-bottom: 30px;
+    }
+
+    .roadmap-basic-right > div > ul {
+        margin-left: 25px;
+    }
+
+    .roadmap-basic-right div:first-of-type {
+        margin: 0 0 30px 0;
+    }
+
+    .roadmap-basic-center-img > img:first-of-type {
+        margin: 50px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(2) {
+        margin: 400px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(3) {
+        margin: 750px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:nth-of-type(4) {
+        margin: 1100px 0 0 -18px;
+    }
+
+    .roadmap-basic-center-img > img:last-of-type {
+        margin: 1450px 0 0 -18px;
+    }
+
+    .roadmap__background-another {
+        height: 1100px;
+    }
+
+    .team-block {
+        margin-bottom: 80px;
+    }
+
+    .title-block-team {
+        margin-top: 130px;
+    }
+
+    .team-list {
+        width: 356px;
+    }
+
+    .player {
+        margin-bottom: 26px;
+    }
+
+    .avatar {
+        width: 150px;
+        height: 150px;
+    }
+
+    .player > p:first-of-type {
+        font-weight: 900;
+        font-size: 25px;
+        line-height: 32px;
+        margin-top: 20px;
+    }
+
+    .faq-block {
+        margin-bottom: 75px;
+    }
+
+    .questions {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .title-question {
+        padding: 35px 0;
+    }
+
+    .minus {
+        margin: 0 30px;
+    }
+
+    .plus {
+        margin: 0 30px;
+    }
+
+    .litepaper__img-media {
+        margin-bottom: 20px;
+    }
+
+    .litepaper__img-media > img {
+        width: 380px;
+        height: 520px;
+    }
+
+    .introduction {
+        width: 380px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .idea {
+        width: 380px;
+        height: auto;
+    }
+
+    .introduction-text {
+        width: 100%;
+        margin: 30px;
+    }
+
+    .introduction-text > h3 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .introduction-text > p {
+        margin-bottom: 22px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .idea-text {
+        width: 100%;
+        margin: 30px;
+    }
+
+    .idea-text > h3 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .idea-text > p {
+        margin-bottom: 22px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .introduction-text > button {
+        text-align: left;
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .idea > button {
+        text-align: left;
+        margin-left: 10px;
+    }
+}
+
